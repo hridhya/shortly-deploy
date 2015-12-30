@@ -9,7 +9,7 @@
   "dependencies": {
     "knex": "~0.5.7",
     "bookshelf": "~0.6.4",
-    "sqlite3": "~3.0.10",
+    "sqlite3": "~3.1.1",
     "express": "~3.4.8",
     "express-partials": "~0.2.0",
     "ejs": "~0.8.5",
@@ -32,5 +32,9 @@
   },
   "devDependencies": {
     "supertest": "^0.10.0"
+  },
+
+  "engines": {
+    "node": "5.0.0"
   }
 }
